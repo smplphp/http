@@ -1,6 +1,6 @@
 {
-  "name": "smplphp/skeleton",
-  "description": "A simple modern PHP skeleton library",
+  "name": "smplphp/http",
+  "description": "A simple modern PHP http library",
   "minimum-stability": "stable",
   "license": "MIT",
   "type": "library",
@@ -22,13 +22,13 @@
   },
   "autoload": {
     "psr-4": {
-      "Smpl\\Skeleton\\": "src/",
-      "Smpl\\Meta\\Skeleton\\": "meta/"
+      "Smpl\\http\\": "src/",
+      "Smpl\\Meta\\http\\": "meta/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Smpl\\Skeleton\\Tests\\": "tests/"
+      "Smpl\\http\\Tests\\": "tests/"
     }
   },
   "config": {
