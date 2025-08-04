@@ -1,9 +1,11 @@
 parameters:
-    level: max
-    paths:
-        - src
-    excludePaths:
-        - vendor
-        - tests
-    checkGenericClassInNonGenericObjectType: false
-    ignoreErrors:
+  level: max
+
+  paths:
+    - src
+
+  excludePaths:
+    - vendor
+    - tests
+
+  ignoreErrors:

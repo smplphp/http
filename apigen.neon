@@ -29,4 +29,4 @@ parameters:
   themeDir: null
 
   # string, --title in CLI
-  title: 'SMPL Skeleton API Documentation'
+  title: 'SMPL HTTP API Documentation'

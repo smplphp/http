@@ -18,5 +18,7 @@
     <issueHandlers>
         <PropertyNotSetInConstructor errorLevel="suppress"/>
         <RedundantPropertyInitializationCheck errorLevel="suppress"/>
+        <UnusedClass errorLevel="suppress"/>
+        <PossiblyUnusedMethod errorLevel="suppress"/>
     </issueHandlers>
 </psalm>
